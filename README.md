@@ -1,6 +1,6 @@
 # python-grapher
-A simple python program that can graph equations and edit the coordinate plane
-It is designed to be simple to use
+* A simple python program that can graph equations and edit the coordinate plane
+* It is designed to be simple to use
 
 ## To Use:
 1. Make sure tkframes.py and tkgrapher.py are in the same file
@@ -9,5 +9,5 @@ It is designed to be simple to use
 
 ## Commands:
 
-`graph` takes an equation omiting the y= or f(x)=. ex: `graph x` `graph cos(tan(x))`
-`+` and `-` zoom in and zoom out, respectively
+* `graph` takes an equation omiting the y= or f(x)=. ex: `graph x` `graph cos(tan(x))`
+* `+` and `-` zoom in and zoom out, respectively
