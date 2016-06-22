@@ -10,4 +10,6 @@
 ## Commands:
 
 * `graph` takes an equation omiting the y= or f(x)=. ex: `graph x` `graph cos(tan(x))`
-* `+` and `-` zoom in and zoom out, respectively
+* (`+`, `zoom+`, and `zoom +`) and (`-`, `zoom-`, and `zoom -`) zoom in and zoom out, respectively
+* `clear` clears the coordinate plane of all equations
+* `delete` takes an argument passed to graph searches for it, and if it exists, removes that equation from the coordinate plane
