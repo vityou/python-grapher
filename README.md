@@ -3,7 +3,7 @@
 * It is designed to be simple to use
 
 ## To Use:
-1. Make sure tkframes.py and tkgrapher.py are in the same file
+1. Make sure tkframes.py and tkgrapher.py are in the same folder
 2. In a terminal window running bash, navigate to the folder containing tkgrapher.py
 3. run tkgrapher.py with python3: `python3 tkgrapher.py`
 
