@@ -1,6 +1,7 @@
 # python-grapher
 * A simple python program that can graph equations and edit the coordinate plane
 * It is designed to be simple to use
+* Made with only python default libraries (tkinter, math)
 
 ## To Use:
 1. Make sure tkframes.py and tkgrapher.py are in the same folder
