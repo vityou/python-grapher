@@ -8,6 +8,6 @@
 
 ## Commands:
 
- *`graph` takes a function and a string, x or y, that signifies what value to give to the function
- *`delete_equation` takes either a list of equation tuples/lists, or a single equation tuple to delete
- *look at source for more functions
+ * `graph` takes a function and a string, x or y, that signifies what value to give to the function
+ * `delete_equation` takes either a list of equation tuples/lists, or a single equation tuple to delete
+ * look at source for more functions
